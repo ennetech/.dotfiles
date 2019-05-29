@@ -1,0 +1,2 @@
+# Misc
+alias cc='clear'
